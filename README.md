@@ -46,7 +46,7 @@ An **educational**, **open-source** implementation of a party round fundraising 
 ### Installation
 ```bash
 # Clone the repository
-git clone https://github.com/knowyourdao/party-round.git
+git clone https://github.com/KnowYourAgent/party-round.git
 cd party-round
 
 # Install dependencies
